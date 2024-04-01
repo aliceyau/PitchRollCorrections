@@ -1,5 +1,9 @@
 package PitchRollCorrections.utilities;
 
+import javax.vecmath.AxisAngle4d;
+import javax.vecmath.Matrix3d;
+import javax.vecmath.Quat4d;
+
 public class algorithm1 {
   public static void main(String[] args) {
     // Input values
