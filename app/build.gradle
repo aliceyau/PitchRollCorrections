@@ -9,6 +9,7 @@ plugins {
 dependencies {
     implementation 'org.apache.commons:commons-text'
     implementation project(':utilities')
+    implementation group: 'javax.vecmath', name: 'vecmath', version: '1.5.2'
 }
 
 application {
